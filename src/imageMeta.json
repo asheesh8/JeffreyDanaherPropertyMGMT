@@ -1,0 +1,66 @@
+{
+  "lobby-clean": {
+    "ar": 1.3333,
+    "lqip": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAAAwBACdASoUAA8APwFqrE6rJiQiMAgBYCAJZwCw7BerFH+NJy/vHUomBAAA5unfegozvb8pjqf7UMQkuuismW1qP0r1cs8kRg9aiROcTGZ4C2TKwAA="
+  },
+  "office-clean": {
+    "ar": 1.3333,
+    "lqip": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAAAwAwCdASoUAA8APwFsrU8rJiQiMAgBYCAJYwAAWCbqSQnAAP6OxQTbyM9MzCIoibfqC5/s3ir7MpvAld9Yi5KIRQpnUc7A2+O87YAA"
+  },
+  "mowing-commercial": {
+    "ar": 1.3333,
+    "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAwCdASoUAA8APwFsrE6rJiQiMAgBYCAJQBdkFThXuzBEHXVc0wAA/j2VOFXzFDgF3+uwKoYvt06mdqrCkZzsVUMHKp0SGKgrkslqEszBrpAA"
+  },
+  "plow-truck": {
+    "ar": 0.75,
+    "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAADwBACdASoUABsAPwFwrFGrJiQiqA1RYCAJQBhsdeALUgjpAgba+Hmyy+36BFiISIAAbaIwytmfaAHJdLyKPS3Z9pfP3RU3Rl4o2MuMu8qs7Dwx000MKw/mem9MkE8pAYhXs11GFsBmCX2Rk7MyCGYizZBYZdHGXsdrqTflTXBgFoAtmQAAAA=="
+  },
+  "walkway-beds": {
+    "ar": 0.75,
+    "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAACwBACdASoUABsAPvVmp06qpaMiMAwBUB6JQBllgu4bYprnD2JbaY2iOOES85LIAOHa+37fNPfLwdKd9VLwEADm89YV5zaAVm+OtRL+O4J+oXGTSOPw/K/0ABSXx+We0EELMEgS2rOFO0rYQfqMzwq6AKTRWjXatd7irAjFOx7GVuFyagAAAA=="
+  },
+  "pool": {
+    "ar": 0.75,
+    "lqip": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACwBACdASoUABsAPvVmqE6qpaOiMAwBUB6JYwC7ABe67X5z1mXt0TXhKrUenNOgAP6YwhaINrB3KBNEZhUiOfnoHRc1msdoBv5bXvWVXUom6HrXxyoY/Lc8BWg521jKcmdbOPrMgSuPOaqvD/oAAA=="
+  },
+  "stonewall": {
+    "ar": 0.75,
+    "lqip": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwBACdASoUABsAPwFor1ErJSQisBgIAWAgCUAXyQF6gvN1hRvgBrWVOYUEUlGh6AAA/iabbGpW80ALlwgdD11lOCFz1jCSTJPAGaJfqagwwyvTwneF3UHrNaYIYQezB8NK63o57rYAAA=="
+  },
+  "mulch-commercial": {
+    "ar": 1.3333,
+    "lqip": "data:image/webp;base64,UklGRmQAAABXRUJQVlA4IFgAAADwAwCdASoUAA8APwFqrE6rJiQiMAgBYCAJQBTigeN4IUZRHGUql8MAAP5sMwesPWQ6fWuVohlkIkb60waRK3GWa9wvNcfDZOMH4aQQDG4Axbb9mTJcQwAA"
+  },
+  "planting-storefront": {
+    "ar": 0.75,
+    "lqip": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAwBQCdASoUABsAPwFyrVGrJqQiqA1RYCAJZQDGfBECbTRJutA8/LDq7LPBlfuwv8xTAAD+2NhQ9zOiS1mqza/ravDzST9Lp3MtZyKmoOwD+h7Ni4R0OLlE/XE8OjmkRiWlRqPxW2HFeFN1mFXnQDEroBP+AAAA"
+  },
+  "beds-home": {
+    "ar": 0.75,
+    "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwBACdASoUABsAPwFurlArJiQiqA1RYCAJYwDJEAcGLVt3Q0foetaqT2KRRiWKAAAA/uhdvcsajxR1dtw/FpbHZFNGkAwsiSBvGZBuWdB9HxDQ0E6vJHqMSeOlrMa+fijyAW20m3LWHmlySuiDSvqNrlAygEWAAAA="
+  },
+  "home-lawn": {
+    "ar": 0.75,
+    "lqip": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAAAQBACdASoUABsAPwFqqk8rJiOiMBgMAWAgCWMAtOgAxi1cipHXIEr/8ADJRHhWPzsEO+S6CJSxEBHUHz061glL6ftEbqG/N1GYVv+CRO1iw5cyss86+OVE+4Kal45saocAenAA"
+  },
+  "mulch-sidewalk": {
+    "ar": 0.75,
+    "lqip": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADQBACdASoUABsAPwFqrU6rJiQiMBgMAWAgCUAWnQEiAvF0dPdJs966PX7t+tSkAAD+VHrvBT9gMxOoCO8gS65iPiRkzda2aMOCcEoknemtxwv2pJKEouMsM3gFuniJQy2EpFU6QctA+wa2IgcKszEg4CCoJQTtWvIDr8rRnHRqAAAA"
+  },
+  "planter-downtown": {
+    "ar": 0.75,
+    "lqip": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwBACdASoUABsAPvVop06qpiMiMAwBUB6JYwDDNB0mhfBB5lAfBwWnqVfaPJvEysAA/VLc6WIGg8zp9pFkiUYLai3MuwEnIs+LgQACm/gV9o//WFYRqAHUTqXbsoJMwLJ7rtDg9M/keL6RqFim68ExjVPutR09gAA="
+  },
+  "thank-you": {
+    "ar": 0.75,
+    "lqip": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAADQBACdASoUABsAPvFkrE6ppaSiMAwBMB4JQBOkLaBW9W7Lqd7oHa23uM7ass5eIAD8dZIo2vB9c69I6bDL/eIXcrG7hILwszCM1Eky+HcR7FotUlDs/mEtTXnftbAzD1tfXU40pBkaI/q4WN76DWMFJhCtMXFlocL8AA=="
+  },
+  "field-mowed": {
+    "ar": 0.75,
+    "lqip": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABQBQCdASoUABsAPwFwrVCrJiQiqA1RYCAJaACo9As7LKVZoWR2sWC2MMpngT3eS2aL/oAA/Rsb8qyZenbcs6Jlw2nif7aG/F3YOLNiEeWZrfEUPf/8jsnDQ6N43g+JfPFhWBzKGYZ+s6H7BjvqaxTMYtL3mrTsO2DoXB7wiiDt9UwSb9LQAA=="
+  },
+  "garden-bed": {
+    "ar": 0.75,
+    "lqip": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAACwBACdASoUABsAPvlop06qpiMiMAwBUB8JYgC7ACHNrQfRKeT20TKUNB44VDEgAPKcpIhcTOxKxg/v9KaZrKQ+JTZGb3xDdyl+b8lSCNRP5DC4Ckce2xIO+8E69ccTEGxdqkle/ICX6WwIfyAqVCKQjqGNez9hPXsBxtNc2MAAAA=="
+  }
+}
