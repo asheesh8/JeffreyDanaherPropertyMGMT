@@ -7,6 +7,12 @@ export function Services({ go }: { go: (v: ViewId) => void }) {
   const [i, setI] = useState(0);
   const [prev, setPrev] = useState<number | null>(null);
   const active = SERVICES[i];
+  const wrap = (idx: number) => (idx + SERVICES.length) % SERVICES.length;
+  const mobileServices = [
+    { idx: wrap(i - 1), slot: "prev", label: "Previous service" },
+    { idx: i, slot: "current", label: "Current service" },
+    { idx: wrap(i + 1), slot: "next", label: "Next service" },
+  ];
 
   const pick = (idx: number) => {
     if (idx === i) return;
@@ -49,6 +55,28 @@ export function Services({ go }: { go: (v: ViewId) => void }) {
               <span className="svc__s">{s.season}</span>
             </button>
           ))}
+        </div>
+
+        <div className="svc__mobile-loop" role="tablist" aria-label="Services" key={`mobile-${i}`}>
+          {mobileServices.map(({ idx, slot, label }) => {
+            const s = SERVICES[idx];
+            return (
+              <button
+                key={`${slot}-${s.id}`}
+                className="svc__peek"
+                role="tab"
+                aria-label={`${label}: ${s.title}`}
+                aria-selected={idx === i}
+                data-slot={slot}
+                data-on={idx === i}
+                onClick={() => pick(idx)}
+              >
+                <span className="svc__n">{s.n}</span>
+                <span className="svc__t">{s.short}</span>
+                <span className="svc__s">{s.season}</span>
+              </button>
+            );
+          })}
         </div>
 
         <div className="svc__panel">
